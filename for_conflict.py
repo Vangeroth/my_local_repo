@@ -1,1 +1,1 @@
-print 'okej'
+print 'okei'
